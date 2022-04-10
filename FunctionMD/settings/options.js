@@ -5,10 +5,10 @@
  monayawal: 1000,
  limitawal: 30,
  info: {
-   owner: ["6289501060783@s.whatsapp.net","62895326097674@s.whatsapp.net"],
-   ownerName: "©DEFF",
-   botName: "Thunder-XM_Legacy",
-   igowner: "https://www.instagram.com/deff.xyz",
+   owner: ["6285345047847@s.whatsapp.net","6285822136384@s.whatsapp.net"],
+   ownerName: "©FIKK",
+   botName: "NuVo-BOT",
+   igowner: "https://www.instagram.com/fikrinrirham_",
    version: "^4.0.1"
    },
  rpg: {
